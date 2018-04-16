@@ -1,4 +1,4 @@
-76% accuracry
+#76% accuracry
 
 # In[1]:
 
