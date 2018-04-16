@@ -1,4 +1,4 @@
-#76% accuracry
+# Grade : 0.76076
 
 # In[1]:
 
